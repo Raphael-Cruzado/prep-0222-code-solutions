@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+button {
+  background-color: red;
+  color: white;
+  border: 3px;
+  border-style: double;
+  border-color: darkgray;
+}
